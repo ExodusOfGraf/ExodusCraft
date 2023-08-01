@@ -1,0 +1,11 @@
+C:\Users\grafs\Desktop\C#\ExodusCraft\ExodusCraft\bin\Debug\ExodusCraft.exe.config
+C:\Users\grafs\Desktop\C#\ExodusCraft\ExodusCraft\bin\Debug\ExodusCraft.exe
+C:\Users\grafs\Desktop\C#\ExodusCraft\ExodusCraft\bin\Debug\ExodusCraft.pdb
+C:\Users\grafs\Desktop\C#\ExodusCraft\ExodusCraft\obj\Debug\ExodusCraft.csproj.AssemblyReference.cache
+C:\Users\grafs\Desktop\C#\ExodusCraft\ExodusCraft\obj\Debug\ExodusCraft.csproj.SuggestedBindingRedirects.cache
+C:\Users\grafs\Desktop\C#\ExodusCraft\ExodusCraft\obj\Debug\ExodusCraft.Form1.resources
+C:\Users\grafs\Desktop\C#\ExodusCraft\ExodusCraft\obj\Debug\ExodusCraft.Properties.Resources.resources
+C:\Users\grafs\Desktop\C#\ExodusCraft\ExodusCraft\obj\Debug\ExodusCraft.csproj.GenerateResource.cache
+C:\Users\grafs\Desktop\C#\ExodusCraft\ExodusCraft\obj\Debug\ExodusCraft.csproj.CoreCompileInputs.cache
+C:\Users\grafs\Desktop\C#\ExodusCraft\ExodusCraft\obj\Debug\ExodusCraft.exe
+C:\Users\grafs\Desktop\C#\ExodusCraft\ExodusCraft\obj\Debug\ExodusCraft.pdb
